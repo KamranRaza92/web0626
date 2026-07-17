@@ -1,6 +1,5 @@
 body{
-    bgcolor: #d28484;
-    background-color: #b5ead7;
+       background-color: #b5ead7;
 
    }
 
@@ -10,7 +9,7 @@ h1{
     text-decoration: underline;
 }
 
-div.box {
+div {
 height: 300px;
 width: 300px;
 background-color: #bbbbaa;}
